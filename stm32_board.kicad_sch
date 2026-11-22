@@ -8,7 +8,6 @@
     (title "STM32 Development Board")
     (date "2024-05-19")
     (rev "0.1")
-    (company "devnithw")
   )
 
   (lib_symbols
