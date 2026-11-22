@@ -84,6 +84,4 @@ stm32-devboard/
 ---
 
 ## 🤝 Credits & Acknowledgments
-
-- **Original Hardware Design**: [Devnith Wijesinghe (`devnithw`)](https://github.com/devnithw/stm32-devboard)
-- **Maintained & Adapted by**: [Nikunj Malik](https://github.com/nikunjmalik306)
+- **Made by**: [Nikunj Malik](https://github.com/nikunjmalik306)
