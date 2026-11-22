@@ -1,0 +1,19 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+stm32_board-backups/
+_autosave-*
+fp-info-cache
+*.lck
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
